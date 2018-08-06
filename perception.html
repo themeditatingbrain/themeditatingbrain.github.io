@@ -2,6 +2,7 @@
 	<head>
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/white.css">
+		<link rel="stylesheet" href="css/custom.css">
 	</head>
 	<body>
 		<div class="reveal">
@@ -9,22 +10,26 @@
 
         <!-- Perception -->
 				<section data-background="img/eye.jpeg">
-          <h1 style="color:white">Perception</h1>
+					<div class="container">
+						<div class="avatar">
+							<h1 style="color:white">PERCEPTION</h1>
+						</div>
+					</div>
         </section>
 
-        <!-- Definition -->
-        <section>
-          <h2>
-            Definition
-          </h2>
-          <q>
-            The process through which we interpret and organize sensory information to make sense of the world around us.
-          </q>
+        <section data-background="img/eye.jpeg">
+					<div class="avatar">
+	          <h2 style="color:white">
+	            Definition
+	          </h2>
+	          <q style="color:white">
+	            The process through which we interpret and organize sensory information to make sense of the world around us.
+	          </q>
+				</div>
         </section>
 
-        <!-- Quote -->
-        <section>
-        <p>
+        <section data-background="img/eye.jpeg">
+        <p class="avatar" style="color:white">
           <q>
             We don’t see things as they are, we see them as we are
           </q>
@@ -37,16 +42,21 @@
         <section data-background="img/flatworm.png">
         </section>
 
-        <section data-background="img/shrimp.jpg">
+				<section data-background="img/shrimp.jpg">
         </section>
 
-        <section>
+				<section>
+					<video muted data-autoplay class="stretch" src="img/shrimp.mp4"></video>
+				</section>
+
+        <section data-transition="fade-in">
           <p>
             <b>1)</b> Perception is shaped by our hardware (our brains)
           </p>
         </section>
 
-				<section data-background="img/dress.jpg">
+				<section>
+					<img style="border:none; box-shadow:none" class="stretch" src="img/dress.jpg">
 				</section>
 
         <section data-background="img/rods_cones.jpg">
@@ -70,29 +80,34 @@
         <section data-background="img/colorblind.jpg">
         </section>
 
-        <section data-background="img/colorblind_doggy.jpg">
+        <section data-transition="zoom">
+					<img class="stretch" src="img/colorblind_doggy.jpg">
         </section>
 
-        <section data-background="img/colorblind_painting.jpg">
-        </section>
+				<section data-transition="zoom">
+					<img class="stretch" src="img/colorblind_painting.jpg">
+				</section>
 
-        <section data-background="img/colorblind_stoplight.jpg">
-        </section>
+				<section data-transition="zoom">
+					<img class="stretch" src="img/colorblind_stoplight.jpg">
+				</section>
 
-        <section data-background="img/colorblind_tomatoes.jpg">
-        </section>
+				<section data-transition="zoom">
+					<img class="stretch" src="img/colorblind_tomatoes.jpg">
+				</section>
 
         <section>
           <p>
             <b>1)</b> Perception is shaped by our hardware
           </p>
           <p>
-            <b>2)</b> Our human experiences can be drastically different
+            <b>2)</b> Our perceptual experiences can be drastically different
           </p>
         </section>
 
 			</div>
 		</div>
+		<script src="js/jquery.js"></script>
 		<script src="js/reveal.js"></script>
 		<script>
 			Reveal.initialize();
