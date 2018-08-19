@@ -63,7 +63,7 @@ span a:hover {
 
 .avatar {
   width: 800px;
-  height: 300px;
+  height: 400px;
   overflow: hidden;
   -webkit-transform: translatey(0px);
           transform: translatey(0px);
@@ -75,10 +75,27 @@ span a:hover {
   height: auto;
 }
 
+.meditator {
+  width: 25%;
+  height: auto;
+  overflow: hidden;
+  -webkit-transform: translatey(0px);
+          transform: translatey(0px);
+  -webkit-animation: float 3s ease-in-out infinite;
+          animation: float 3s ease-in-out infinite;
+}
+
 .content {
   width: 100%;
   max-width: 600px;
   padding: 20px 40px;
   box-sizing: border-box;
   text-align: center;
+}
+
+canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
 }
