@@ -1,0 +1,1621 @@
+Name,Time,Meditation,Question,Rating
+Margaret,Before,Retreat,Calm/Relaxed,9
+Margaret,Before,Retreat,Stressed/Anxious,2
+Margaret,Before,Retreat,Focused/Attentive,6
+Margaret,Before,Retreat,Open/Aware,6
+Margaret,Before,Retreat,Pleasant Emotional State,9
+Margaret,Before,Retreat,Unpleasant Emotional State,2
+Margaret,After,Retreat,Calm/Relaxed,
+Margaret,After,Retreat,Stressed/Anxious,
+Margaret,After,Retreat,Focused/Attentive,
+Margaret,After,Retreat,Open/Aware,
+Margaret,After,Retreat,Pleasant Emotional State,
+Margaret,After,Retreat,Unpleasant Emotional State,
+Margaret,Before,Perception,Calm/Relaxed,9
+Margaret,Before,Perception,Stressed/Anxious,2
+Margaret,Before,Perception,Focused/Attentive,6
+Margaret,Before,Perception,Open/Aware,6
+Margaret,Before,Perception,Pleasant Emotional State,9
+Margaret,Before,Perception,Unpleasant Emotional State,2
+Margaret,After,Perception,Calm/Relaxed,9
+Margaret,After,Perception,Stressed/Anxious,1
+Margaret,After,Perception,Focused/Attentive,8
+Margaret,After,Perception,Open/Aware,8
+Margaret,After,Perception,Pleasant Emotional State,9
+Margaret,After,Perception,Unpleasant Emotional State,1
+Margaret,Before,Attention,Calm/Relaxed,9
+Margaret,Before,Attention,Stressed/Anxious,1
+Margaret,Before,Attention,Focused/Attentive,6
+Margaret,Before,Attention,Open/Aware,7
+Margaret,Before,Attention,Pleasant Emotional State,9
+Margaret,Before,Attention,Unpleasant Emotional State,1
+Margaret,After,Attention,Calm/Relaxed,10
+Margaret,After,Attention,Stressed/Anxious,1
+Margaret,After,Attention,Focused/Attentive,8
+Margaret,After,Attention,Open/Aware,8
+Margaret,After,Attention,Pleasant Emotional State,10
+Margaret,After,Attention,Unpleasant Emotional State,1
+Margaret,Before,Memory,Calm/Relaxed,
+Margaret,Before,Memory,Stressed/Anxious,
+Margaret,Before,Memory,Focused/Attentive,
+Margaret,Before,Memory,Open/Aware,
+Margaret,Before,Memory,Pleasant Emotional State,
+Margaret,Before,Memory,Unpleasant Emotional State,
+Margaret,After,Memory,Calm/Relaxed,
+Margaret,After,Memory,Stressed/Anxious,
+Margaret,After,Memory,Focused/Attentive,
+Margaret,After,Memory,Open/Aware,
+Margaret,After,Memory,Pleasant Emotional State,
+Margaret,After,Memory,Unpleasant Emotional State,
+Margaret,Before,Emotion,Calm/Relaxed,
+Margaret,Before,Emotion,Stressed/Anxious,
+Margaret,Before,Emotion,Focused/Attentive,
+Margaret,Before,Emotion,Open/Aware,
+Margaret,Before,Emotion,Pleasant Emotional State,
+Margaret,Before,Emotion,Unpleasant Emotional State,
+Margaret,After,Emotion,Calm/Relaxed,
+Margaret,After,Emotion,Stressed/Anxious,
+Margaret,After,Emotion,Focused/Attentive,
+Margaret,After,Emotion,Open/Aware,
+Margaret,After,Emotion,Pleasant Emotional State,
+Margaret,After,Emotion,Unpleasant Emotional State,
+Brenda,Before,Retreat,Calm/Relaxed,6
+Brenda,Before,Retreat,Stressed/Anxious,5
+Brenda,Before,Retreat,Focused/Attentive,7
+Brenda,Before,Retreat,Open/Aware,7
+Brenda,Before,Retreat,Pleasant Emotional State,5
+Brenda,Before,Retreat,Unpleasant Emotional State,3
+Brenda,After,Retreat,Calm/Relaxed,
+Brenda,After,Retreat,Stressed/Anxious,
+Brenda,After,Retreat,Focused/Attentive,
+Brenda,After,Retreat,Open/Aware,
+Brenda,After,Retreat,Pleasant Emotional State,
+Brenda,After,Retreat,Unpleasant Emotional State,
+Brenda,Before,Perception,Calm/Relaxed,8
+Brenda,Before,Perception,Stressed/Anxious,3
+Brenda,Before,Perception,Focused/Attentive,6
+Brenda,Before,Perception,Open/Aware,6
+Brenda,Before,Perception,Pleasant Emotional State,5
+Brenda,Before,Perception,Unpleasant Emotional State,4
+Brenda,After,Perception,Calm/Relaxed,9
+Brenda,After,Perception,Stressed/Anxious,2
+Brenda,After,Perception,Focused/Attentive,3
+Brenda,After,Perception,Open/Aware,9
+Brenda,After,Perception,Pleasant Emotional State,8
+Brenda,After,Perception,Unpleasant Emotional State,3
+Brenda,Before,Attention,Calm/Relaxed,7
+Brenda,Before,Attention,Stressed/Anxious,2
+Brenda,Before,Attention,Focused/Attentive,5
+Brenda,Before,Attention,Open/Aware,8
+Brenda,Before,Attention,Pleasant Emotional State,6
+Brenda,Before,Attention,Unpleasant Emotional State,4
+Brenda,After,Attention,Calm/Relaxed,10
+Brenda,After,Attention,Stressed/Anxious,1
+Brenda,After,Attention,Focused/Attentive,7
+Brenda,After,Attention,Open/Aware,8
+Brenda,After,Attention,Pleasant Emotional State,9
+Brenda,After,Attention,Unpleasant Emotional State,2
+Brenda,Before,Memory,Calm/Relaxed,
+Brenda,Before,Memory,Stressed/Anxious,
+Brenda,Before,Memory,Focused/Attentive,
+Brenda,Before,Memory,Open/Aware,
+Brenda,Before,Memory,Pleasant Emotional State,
+Brenda,Before,Memory,Unpleasant Emotional State,
+Brenda,After,Memory,Calm/Relaxed,
+Brenda,After,Memory,Stressed/Anxious,
+Brenda,After,Memory,Focused/Attentive,
+Brenda,After,Memory,Open/Aware,
+Brenda,After,Memory,Pleasant Emotional State,
+Brenda,After,Memory,Unpleasant Emotional State,
+Brenda,Before,Emotion,Calm/Relaxed,
+Brenda,Before,Emotion,Stressed/Anxious,
+Brenda,Before,Emotion,Focused/Attentive,
+Brenda,Before,Emotion,Open/Aware,
+Brenda,Before,Emotion,Pleasant Emotional State,
+Brenda,Before,Emotion,Unpleasant Emotional State,
+Brenda,After,Emotion,Calm/Relaxed,
+Brenda,After,Emotion,Stressed/Anxious,
+Brenda,After,Emotion,Focused/Attentive,
+Brenda,After,Emotion,Open/Aware,
+Brenda,After,Emotion,Pleasant Emotional State,
+Brenda,After,Emotion,Unpleasant Emotional State,
+Sita,Before,Retreat,Calm/Relaxed,7
+Sita,Before,Retreat,Stressed/Anxious,4
+Sita,Before,Retreat,Focused/Attentive,7
+Sita,Before,Retreat,Open/Aware,7
+Sita,Before,Retreat,Pleasant Emotional State,7
+Sita,Before,Retreat,Unpleasant Emotional State,4
+Sita,After,Retreat,Calm/Relaxed,
+Sita,After,Retreat,Stressed/Anxious,
+Sita,After,Retreat,Focused/Attentive,
+Sita,After,Retreat,Open/Aware,
+Sita,After,Retreat,Pleasant Emotional State,
+Sita,After,Retreat,Unpleasant Emotional State,
+Sita,Before,Perception,Calm/Relaxed,6
+Sita,Before,Perception,Stressed/Anxious,4
+Sita,Before,Perception,Focused/Attentive,6
+Sita,Before,Perception,Open/Aware,6
+Sita,Before,Perception,Pleasant Emotional State,7
+Sita,Before,Perception,Unpleasant Emotional State,4
+Sita,After,Perception,Calm/Relaxed,8
+Sita,After,Perception,Stressed/Anxious,3
+Sita,After,Perception,Focused/Attentive,8
+Sita,After,Perception,Open/Aware,8
+Sita,After,Perception,Pleasant Emotional State,8
+Sita,After,Perception,Unpleasant Emotional State,4
+Sita,Before,Attention,Calm/Relaxed,7
+Sita,Before,Attention,Stressed/Anxious,5
+Sita,Before,Attention,Focused/Attentive,7
+Sita,Before,Attention,Open/Aware,7
+Sita,Before,Attention,Pleasant Emotional State,7
+Sita,Before,Attention,Unpleasant Emotional State,4
+Sita,After,Attention,Calm/Relaxed,9
+Sita,After,Attention,Stressed/Anxious,2
+Sita,After,Attention,Focused/Attentive,8
+Sita,After,Attention,Open/Aware,8
+Sita,After,Attention,Pleasant Emotional State,8
+Sita,After,Attention,Unpleasant Emotional State,2
+Sita,Before,Memory,Calm/Relaxed,
+Sita,Before,Memory,Stressed/Anxious,
+Sita,Before,Memory,Focused/Attentive,
+Sita,Before,Memory,Open/Aware,
+Sita,Before,Memory,Pleasant Emotional State,
+Sita,Before,Memory,Unpleasant Emotional State,
+Sita,After,Memory,Calm/Relaxed,
+Sita,After,Memory,Stressed/Anxious,
+Sita,After,Memory,Focused/Attentive,
+Sita,After,Memory,Open/Aware,
+Sita,After,Memory,Pleasant Emotional State,
+Sita,After,Memory,Unpleasant Emotional State,
+Sita,Before,Emotion,Calm/Relaxed,
+Sita,Before,Emotion,Stressed/Anxious,
+Sita,Before,Emotion,Focused/Attentive,
+Sita,Before,Emotion,Open/Aware,
+Sita,Before,Emotion,Pleasant Emotional State,
+Sita,Before,Emotion,Unpleasant Emotional State,
+Sita,After,Emotion,Calm/Relaxed,
+Sita,After,Emotion,Stressed/Anxious,
+Sita,After,Emotion,Focused/Attentive,
+Sita,After,Emotion,Open/Aware,
+Sita,After,Emotion,Pleasant Emotional State,
+Sita,After,Emotion,Unpleasant Emotional State,
+Heather,Before,Retreat,Calm/Relaxed,4
+Heather,Before,Retreat,Stressed/Anxious,9
+Heather,Before,Retreat,Focused/Attentive,2
+Heather,Before,Retreat,Open/Aware,6
+Heather,Before,Retreat,Pleasant Emotional State,6
+Heather,Before,Retreat,Unpleasant Emotional State,6
+Heather,After,Retreat,Calm/Relaxed,
+Heather,After,Retreat,Stressed/Anxious,
+Heather,After,Retreat,Focused/Attentive,
+Heather,After,Retreat,Open/Aware,
+Heather,After,Retreat,Pleasant Emotional State,
+Heather,After,Retreat,Unpleasant Emotional State,
+Heather,Before,Perception,Calm/Relaxed,6
+Heather,Before,Perception,Stressed/Anxious,6
+Heather,Before,Perception,Focused/Attentive,7
+Heather,Before,Perception,Open/Aware,6
+Heather,Before,Perception,Pleasant Emotional State,7
+Heather,Before,Perception,Unpleasant Emotional State,5
+Heather,After,Perception,Calm/Relaxed,7
+Heather,After,Perception,Stressed/Anxious,6
+Heather,After,Perception,Focused/Attentive,6
+Heather,After,Perception,Open/Aware,6
+Heather,After,Perception,Pleasant Emotional State,7
+Heather,After,Perception,Unpleasant Emotional State,4
+Heather,Before,Attention,Calm/Relaxed,7
+Heather,Before,Attention,Stressed/Anxious,6
+Heather,Before,Attention,Focused/Attentive,6
+Heather,Before,Attention,Open/Aware,6
+Heather,Before,Attention,Pleasant Emotional State,7
+Heather,Before,Attention,Unpleasant Emotional State,5
+Heather,After,Attention,Calm/Relaxed,9
+Heather,After,Attention,Stressed/Anxious,9
+Heather,After,Attention,Focused/Attentive,6
+Heather,After,Attention,Open/Aware,8
+Heather,After,Attention,Pleasant Emotional State,9
+Heather,After,Attention,Unpleasant Emotional State,3
+Heather,Before,Memory,Calm/Relaxed,
+Heather,Before,Memory,Stressed/Anxious,
+Heather,Before,Memory,Focused/Attentive,
+Heather,Before,Memory,Open/Aware,
+Heather,Before,Memory,Pleasant Emotional State,
+Heather,Before,Memory,Unpleasant Emotional State,
+Heather,After,Memory,Calm/Relaxed,
+Heather,After,Memory,Stressed/Anxious,
+Heather,After,Memory,Focused/Attentive,
+Heather,After,Memory,Open/Aware,
+Heather,After,Memory,Pleasant Emotional State,
+Heather,After,Memory,Unpleasant Emotional State,
+Heather,Before,Emotion,Calm/Relaxed,
+Heather,Before,Emotion,Stressed/Anxious,
+Heather,Before,Emotion,Focused/Attentive,
+Heather,Before,Emotion,Open/Aware,
+Heather,Before,Emotion,Pleasant Emotional State,
+Heather,Before,Emotion,Unpleasant Emotional State,
+Heather,After,Emotion,Calm/Relaxed,
+Heather,After,Emotion,Stressed/Anxious,
+Heather,After,Emotion,Focused/Attentive,
+Heather,After,Emotion,Open/Aware,
+Heather,After,Emotion,Pleasant Emotional State,
+Heather,After,Emotion,Unpleasant Emotional State,
+Laurie,Before,Retreat,Calm/Relaxed,
+Laurie,Before,Retreat,Stressed/Anxious,
+Laurie,Before,Retreat,Focused/Attentive,
+Laurie,Before,Retreat,Open/Aware,
+Laurie,Before,Retreat,Pleasant Emotional State,
+Laurie,Before,Retreat,Unpleasant Emotional State,
+Laurie,After,Retreat,Calm/Relaxed,
+Laurie,After,Retreat,Stressed/Anxious,
+Laurie,After,Retreat,Focused/Attentive,
+Laurie,After,Retreat,Open/Aware,
+Laurie,After,Retreat,Pleasant Emotional State,
+Laurie,After,Retreat,Unpleasant Emotional State,
+Laurie,Before,Perception,Calm/Relaxed,4
+Laurie,Before,Perception,Stressed/Anxious,2
+Laurie,Before,Perception,Focused/Attentive,8
+Laurie,Before,Perception,Open/Aware,8
+Laurie,Before,Perception,Pleasant Emotional State,6
+Laurie,Before,Perception,Unpleasant Emotional State,2
+Laurie,After,Perception,Calm/Relaxed,5
+Laurie,After,Perception,Stressed/Anxious,4
+Laurie,After,Perception,Focused/Attentive,7
+Laurie,After,Perception,Open/Aware,7
+Laurie,After,Perception,Pleasant Emotional State,5
+Laurie,After,Perception,Unpleasant Emotional State,5
+Laurie,Before,Attention,Calm/Relaxed,7
+Laurie,Before,Attention,Stressed/Anxious,3
+Laurie,Before,Attention,Focused/Attentive,5
+Laurie,Before,Attention,Open/Aware,7
+Laurie,Before,Attention,Pleasant Emotional State,4
+Laurie,Before,Attention,Unpleasant Emotional State,6
+Laurie,After,Attention,Calm/Relaxed,9
+Laurie,After,Attention,Stressed/Anxious,2
+Laurie,After,Attention,Focused/Attentive,7
+Laurie,After,Attention,Open/Aware,8
+Laurie,After,Attention,Pleasant Emotional State,9
+Laurie,After,Attention,Unpleasant Emotional State,2
+Laurie,Before,Memory,Calm/Relaxed,
+Laurie,Before,Memory,Stressed/Anxious,
+Laurie,Before,Memory,Focused/Attentive,
+Laurie,Before,Memory,Open/Aware,
+Laurie,Before,Memory,Pleasant Emotional State,
+Laurie,Before,Memory,Unpleasant Emotional State,
+Laurie,After,Memory,Calm/Relaxed,
+Laurie,After,Memory,Stressed/Anxious,
+Laurie,After,Memory,Focused/Attentive,
+Laurie,After,Memory,Open/Aware,
+Laurie,After,Memory,Pleasant Emotional State,
+Laurie,After,Memory,Unpleasant Emotional State,
+Laurie,Before,Emotion,Calm/Relaxed,
+Laurie,Before,Emotion,Stressed/Anxious,
+Laurie,Before,Emotion,Focused/Attentive,
+Laurie,Before,Emotion,Open/Aware,
+Laurie,Before,Emotion,Pleasant Emotional State,
+Laurie,Before,Emotion,Unpleasant Emotional State,
+Laurie,After,Emotion,Calm/Relaxed,
+Laurie,After,Emotion,Stressed/Anxious,
+Laurie,After,Emotion,Focused/Attentive,
+Laurie,After,Emotion,Open/Aware,
+Laurie,After,Emotion,Pleasant Emotional State,
+Laurie,After,Emotion,Unpleasant Emotional State,
+Valerie,Before,Retreat,Calm/Relaxed,9
+Valerie,Before,Retreat,Stressed/Anxious,1
+Valerie,Before,Retreat,Focused/Attentive,7
+Valerie,Before,Retreat,Open/Aware,10
+Valerie,Before,Retreat,Pleasant Emotional State,8
+Valerie,Before,Retreat,Unpleasant Emotional State,2
+Valerie,After,Retreat,Calm/Relaxed,
+Valerie,After,Retreat,Stressed/Anxious,
+Valerie,After,Retreat,Focused/Attentive,
+Valerie,After,Retreat,Open/Aware,
+Valerie,After,Retreat,Pleasant Emotional State,
+Valerie,After,Retreat,Unpleasant Emotional State,
+Valerie,Before,Perception,Calm/Relaxed,7
+Valerie,Before,Perception,Stressed/Anxious,2
+Valerie,Before,Perception,Focused/Attentive,8
+Valerie,Before,Perception,Open/Aware,7
+Valerie,Before,Perception,Pleasant Emotional State,9
+Valerie,Before,Perception,Unpleasant Emotional State,2
+Valerie,After,Perception,Calm/Relaxed,10
+Valerie,After,Perception,Stressed/Anxious,1
+Valerie,After,Perception,Focused/Attentive,3
+Valerie,After,Perception,Open/Aware,10
+Valerie,After,Perception,Pleasant Emotional State,10
+Valerie,After,Perception,Unpleasant Emotional State,1
+Valerie,Before,Attention,Calm/Relaxed,9
+Valerie,Before,Attention,Stressed/Anxious,1
+Valerie,Before,Attention,Focused/Attentive,8
+Valerie,Before,Attention,Open/Aware,9
+Valerie,Before,Attention,Pleasant Emotional State,9
+Valerie,Before,Attention,Unpleasant Emotional State,1
+Valerie,After,Attention,Calm/Relaxed,10
+Valerie,After,Attention,Stressed/Anxious,1
+Valerie,After,Attention,Focused/Attentive,8
+Valerie,After,Attention,Open/Aware,9
+Valerie,After,Attention,Pleasant Emotional State,10
+Valerie,After,Attention,Unpleasant Emotional State,1
+Valerie,Before,Memory,Calm/Relaxed,
+Valerie,Before,Memory,Stressed/Anxious,
+Valerie,Before,Memory,Focused/Attentive,
+Valerie,Before,Memory,Open/Aware,
+Valerie,Before,Memory,Pleasant Emotional State,
+Valerie,Before,Memory,Unpleasant Emotional State,
+Valerie,After,Memory,Calm/Relaxed,
+Valerie,After,Memory,Stressed/Anxious,
+Valerie,After,Memory,Focused/Attentive,
+Valerie,After,Memory,Open/Aware,
+Valerie,After,Memory,Pleasant Emotional State,
+Valerie,After,Memory,Unpleasant Emotional State,
+Valerie,Before,Emotion,Calm/Relaxed,
+Valerie,Before,Emotion,Stressed/Anxious,
+Valerie,Before,Emotion,Focused/Attentive,
+Valerie,Before,Emotion,Open/Aware,
+Valerie,Before,Emotion,Pleasant Emotional State,
+Valerie,Before,Emotion,Unpleasant Emotional State,
+Valerie,After,Emotion,Calm/Relaxed,
+Valerie,After,Emotion,Stressed/Anxious,
+Valerie,After,Emotion,Focused/Attentive,
+Valerie,After,Emotion,Open/Aware,
+Valerie,After,Emotion,Pleasant Emotional State,
+Valerie,After,Emotion,Unpleasant Emotional State,
+Pam D.,Before,Retreat,Calm/Relaxed,6
+Pam D.,Before,Retreat,Stressed/Anxious,3
+Pam D.,Before,Retreat,Focused/Attentive,7
+Pam D.,Before,Retreat,Open/Aware,6
+Pam D.,Before,Retreat,Pleasant Emotional State,7
+Pam D.,Before,Retreat,Unpleasant Emotional State,2
+Pam D.,After,Retreat,Calm/Relaxed,
+Pam D.,After,Retreat,Stressed/Anxious,
+Pam D.,After,Retreat,Focused/Attentive,
+Pam D.,After,Retreat,Open/Aware,
+Pam D.,After,Retreat,Pleasant Emotional State,
+Pam D.,After,Retreat,Unpleasant Emotional State,
+Pam D.,Before,Perception,Calm/Relaxed,4
+Pam D.,Before,Perception,Stressed/Anxious,6
+Pam D.,Before,Perception,Focused/Attentive,8
+Pam D.,Before,Perception,Open/Aware,7
+Pam D.,Before,Perception,Pleasant Emotional State,6
+Pam D.,Before,Perception,Unpleasant Emotional State,5
+Pam D.,After,Perception,Calm/Relaxed,8
+Pam D.,After,Perception,Stressed/Anxious,3
+Pam D.,After,Perception,Focused/Attentive,7
+Pam D.,After,Perception,Open/Aware,9
+Pam D.,After,Perception,Pleasant Emotional State,8
+Pam D.,After,Perception,Unpleasant Emotional State,2
+Pam D.,Before,Attention,Calm/Relaxed,8
+Pam D.,Before,Attention,Stressed/Anxious,4
+Pam D.,Before,Attention,Focused/Attentive,7
+Pam D.,Before,Attention,Open/Aware,6
+Pam D.,Before,Attention,Pleasant Emotional State,7
+Pam D.,Before,Attention,Unpleasant Emotional State,3
+Pam D.,After,Attention,Calm/Relaxed,7
+Pam D.,After,Attention,Stressed/Anxious,2
+Pam D.,After,Attention,Focused/Attentive,7
+Pam D.,After,Attention,Open/Aware,6
+Pam D.,After,Attention,Pleasant Emotional State,8
+Pam D.,After,Attention,Unpleasant Emotional State,1
+Pam D.,Before,Memory,Calm/Relaxed,
+Pam D.,Before,Memory,Stressed/Anxious,
+Pam D.,Before,Memory,Focused/Attentive,
+Pam D.,Before,Memory,Open/Aware,
+Pam D.,Before,Memory,Pleasant Emotional State,
+Pam D.,Before,Memory,Unpleasant Emotional State,
+Pam D.,After,Memory,Calm/Relaxed,
+Pam D.,After,Memory,Stressed/Anxious,
+Pam D.,After,Memory,Focused/Attentive,
+Pam D.,After,Memory,Open/Aware,
+Pam D.,After,Memory,Pleasant Emotional State,
+Pam D.,After,Memory,Unpleasant Emotional State,
+Pam D.,Before,Emotion,Calm/Relaxed,
+Pam D.,Before,Emotion,Stressed/Anxious,
+Pam D.,Before,Emotion,Focused/Attentive,
+Pam D.,Before,Emotion,Open/Aware,
+Pam D.,Before,Emotion,Pleasant Emotional State,
+Pam D.,Before,Emotion,Unpleasant Emotional State,
+Pam D.,After,Emotion,Calm/Relaxed,
+Pam D.,After,Emotion,Stressed/Anxious,
+Pam D.,After,Emotion,Focused/Attentive,
+Pam D.,After,Emotion,Open/Aware,
+Pam D.,After,Emotion,Pleasant Emotional State,
+Pam D.,After,Emotion,Unpleasant Emotional State,
+Kim A.,Before,Retreat,Calm/Relaxed,7
+Kim A.,Before,Retreat,Stressed/Anxious,4
+Kim A.,Before,Retreat,Focused/Attentive,7
+Kim A.,Before,Retreat,Open/Aware,7
+Kim A.,Before,Retreat,Pleasant Emotional State,7
+Kim A.,Before,Retreat,Unpleasant Emotional State,4
+Kim A.,After,Retreat,Calm/Relaxed,
+Kim A.,After,Retreat,Stressed/Anxious,
+Kim A.,After,Retreat,Focused/Attentive,
+Kim A.,After,Retreat,Open/Aware,
+Kim A.,After,Retreat,Pleasant Emotional State,
+Kim A.,After,Retreat,Unpleasant Emotional State,
+Kim A.,Before,Perception,Calm/Relaxed,8
+Kim A.,Before,Perception,Stressed/Anxious,2
+Kim A.,Before,Perception,Focused/Attentive,7
+Kim A.,Before,Perception,Open/Aware,8
+Kim A.,Before,Perception,Pleasant Emotional State,8
+Kim A.,Before,Perception,Unpleasant Emotional State,2
+Kim A.,After,Perception,Calm/Relaxed,10
+Kim A.,After,Perception,Stressed/Anxious,1
+Kim A.,After,Perception,Focused/Attentive,7
+Kim A.,After,Perception,Open/Aware,8
+Kim A.,After,Perception,Pleasant Emotional State,9
+Kim A.,After,Perception,Unpleasant Emotional State,2
+Kim A.,Before,Attention,Calm/Relaxed,8
+Kim A.,Before,Attention,Stressed/Anxious,2
+Kim A.,Before,Attention,Focused/Attentive,8
+Kim A.,Before,Attention,Open/Aware,8
+Kim A.,Before,Attention,Pleasant Emotional State,9
+Kim A.,Before,Attention,Unpleasant Emotional State,1
+Kim A.,After,Attention,Calm/Relaxed,10
+Kim A.,After,Attention,Stressed/Anxious,1
+Kim A.,After,Attention,Focused/Attentive,7
+Kim A.,After,Attention,Open/Aware,7
+Kim A.,After,Attention,Pleasant Emotional State,10
+Kim A.,After,Attention,Unpleasant Emotional State,1
+Kim A.,Before,Memory,Calm/Relaxed,
+Kim A.,Before,Memory,Stressed/Anxious,
+Kim A.,Before,Memory,Focused/Attentive,
+Kim A.,Before,Memory,Open/Aware,
+Kim A.,Before,Memory,Pleasant Emotional State,
+Kim A.,Before,Memory,Unpleasant Emotional State,
+Kim A.,After,Memory,Calm/Relaxed,
+Kim A.,After,Memory,Stressed/Anxious,
+Kim A.,After,Memory,Focused/Attentive,
+Kim A.,After,Memory,Open/Aware,
+Kim A.,After,Memory,Pleasant Emotional State,
+Kim A.,After,Memory,Unpleasant Emotional State,
+Kim A.,Before,Emotion,Calm/Relaxed,
+Kim A.,Before,Emotion,Stressed/Anxious,
+Kim A.,Before,Emotion,Focused/Attentive,
+Kim A.,Before,Emotion,Open/Aware,
+Kim A.,Before,Emotion,Pleasant Emotional State,
+Kim A.,Before,Emotion,Unpleasant Emotional State,
+Kim A.,After,Emotion,Calm/Relaxed,
+Kim A.,After,Emotion,Stressed/Anxious,
+Kim A.,After,Emotion,Focused/Attentive,
+Kim A.,After,Emotion,Open/Aware,
+Kim A.,After,Emotion,Pleasant Emotional State,
+Kim A.,After,Emotion,Unpleasant Emotional State,
+Pauline,Before,Retreat,Calm/Relaxed,9
+Pauline,Before,Retreat,Stressed/Anxious,3
+Pauline,Before,Retreat,Focused/Attentive,6
+Pauline,Before,Retreat,Open/Aware,7
+Pauline,Before,Retreat,Pleasant Emotional State,8
+Pauline,Before,Retreat,Unpleasant Emotional State,2
+Pauline,After,Retreat,Calm/Relaxed,
+Pauline,After,Retreat,Stressed/Anxious,
+Pauline,After,Retreat,Focused/Attentive,
+Pauline,After,Retreat,Open/Aware,
+Pauline,After,Retreat,Pleasant Emotional State,
+Pauline,After,Retreat,Unpleasant Emotional State,
+Pauline,Before,Perception,Calm/Relaxed,8
+Pauline,Before,Perception,Stressed/Anxious,4
+Pauline,Before,Perception,Focused/Attentive,8
+Pauline,Before,Perception,Open/Aware,6
+Pauline,Before,Perception,Pleasant Emotional State,7
+Pauline,Before,Perception,Unpleasant Emotional State,2
+Pauline,After,Perception,Calm/Relaxed,10
+Pauline,After,Perception,Stressed/Anxious,2
+Pauline,After,Perception,Focused/Attentive,9
+Pauline,After,Perception,Open/Aware,9
+Pauline,After,Perception,Pleasant Emotional State,9
+Pauline,After,Perception,Unpleasant Emotional State,2
+Pauline,Before,Attention,Calm/Relaxed,7
+Pauline,Before,Attention,Stressed/Anxious,4
+Pauline,Before,Attention,Focused/Attentive,5
+Pauline,Before,Attention,Open/Aware,6
+Pauline,Before,Attention,Pleasant Emotional State,7
+Pauline,Before,Attention,Unpleasant Emotional State,2
+Pauline,After,Attention,Calm/Relaxed,8
+Pauline,After,Attention,Stressed/Anxious,2
+Pauline,After,Attention,Focused/Attentive,7
+Pauline,After,Attention,Open/Aware,7
+Pauline,After,Attention,Pleasant Emotional State,7
+Pauline,After,Attention,Unpleasant Emotional State,1
+Pauline,Before,Memory,Calm/Relaxed,
+Pauline,Before,Memory,Stressed/Anxious,
+Pauline,Before,Memory,Focused/Attentive,
+Pauline,Before,Memory,Open/Aware,
+Pauline,Before,Memory,Pleasant Emotional State,
+Pauline,Before,Memory,Unpleasant Emotional State,
+Pauline,After,Memory,Calm/Relaxed,
+Pauline,After,Memory,Stressed/Anxious,
+Pauline,After,Memory,Focused/Attentive,
+Pauline,After,Memory,Open/Aware,
+Pauline,After,Memory,Pleasant Emotional State,
+Pauline,After,Memory,Unpleasant Emotional State,
+Pauline,Before,Emotion,Calm/Relaxed,
+Pauline,Before,Emotion,Stressed/Anxious,
+Pauline,Before,Emotion,Focused/Attentive,
+Pauline,Before,Emotion,Open/Aware,
+Pauline,Before,Emotion,Pleasant Emotional State,
+Pauline,Before,Emotion,Unpleasant Emotional State,
+Pauline,After,Emotion,Calm/Relaxed,
+Pauline,After,Emotion,Stressed/Anxious,
+Pauline,After,Emotion,Focused/Attentive,
+Pauline,After,Emotion,Open/Aware,
+Pauline,After,Emotion,Pleasant Emotional State,
+Pauline,After,Emotion,Unpleasant Emotional State,
+Pam,Before,Retreat,Calm/Relaxed,7
+Pam,Before,Retreat,Stressed/Anxious,3
+Pam,Before,Retreat,Focused/Attentive,7
+Pam,Before,Retreat,Open/Aware,7
+Pam,Before,Retreat,Pleasant Emotional State,7
+Pam,Before,Retreat,Unpleasant Emotional State,3
+Pam,After,Retreat,Calm/Relaxed,
+Pam,After,Retreat,Stressed/Anxious,
+Pam,After,Retreat,Focused/Attentive,
+Pam,After,Retreat,Open/Aware,
+Pam,After,Retreat,Pleasant Emotional State,
+Pam,After,Retreat,Unpleasant Emotional State,
+Pam,Before,Perception,Calm/Relaxed,6
+Pam,Before,Perception,Stressed/Anxious,4
+Pam,Before,Perception,Focused/Attentive,6
+Pam,Before,Perception,Open/Aware,7
+Pam,Before,Perception,Pleasant Emotional State,7
+Pam,Before,Perception,Unpleasant Emotional State,6
+Pam,After,Perception,Calm/Relaxed,8
+Pam,After,Perception,Stressed/Anxious,3
+Pam,After,Perception,Focused/Attentive,7
+Pam,After,Perception,Open/Aware,7
+Pam,After,Perception,Pleasant Emotional State,8
+Pam,After,Perception,Unpleasant Emotional State,3
+Pam,Before,Attention,Calm/Relaxed,7
+Pam,Before,Attention,Stressed/Anxious,3
+Pam,Before,Attention,Focused/Attentive,6
+Pam,Before,Attention,Open/Aware,7
+Pam,Before,Attention,Pleasant Emotional State,8
+Pam,Before,Attention,Unpleasant Emotional State,3
+Pam,After,Attention,Calm/Relaxed,9
+Pam,After,Attention,Stressed/Anxious,2
+Pam,After,Attention,Focused/Attentive,8
+Pam,After,Attention,Open/Aware,8
+Pam,After,Attention,Pleasant Emotional State,7
+Pam,After,Attention,Unpleasant Emotional State,3
+Pam,Before,Memory,Calm/Relaxed,
+Pam,Before,Memory,Stressed/Anxious,
+Pam,Before,Memory,Focused/Attentive,
+Pam,Before,Memory,Open/Aware,
+Pam,Before,Memory,Pleasant Emotional State,
+Pam,Before,Memory,Unpleasant Emotional State,
+Pam,After,Memory,Calm/Relaxed,
+Pam,After,Memory,Stressed/Anxious,
+Pam,After,Memory,Focused/Attentive,
+Pam,After,Memory,Open/Aware,
+Pam,After,Memory,Pleasant Emotional State,
+Pam,After,Memory,Unpleasant Emotional State,
+Pam,Before,Emotion,Calm/Relaxed,
+Pam,Before,Emotion,Stressed/Anxious,
+Pam,Before,Emotion,Focused/Attentive,
+Pam,Before,Emotion,Open/Aware,
+Pam,Before,Emotion,Pleasant Emotional State,
+Pam,Before,Emotion,Unpleasant Emotional State,
+Pam,After,Emotion,Calm/Relaxed,
+Pam,After,Emotion,Stressed/Anxious,
+Pam,After,Emotion,Focused/Attentive,
+Pam,After,Emotion,Open/Aware,
+Pam,After,Emotion,Pleasant Emotional State,
+Pam,After,Emotion,Unpleasant Emotional State,
+John A.,Before,Retreat,Calm/Relaxed,7
+John A.,Before,Retreat,Stressed/Anxious,3
+John A.,Before,Retreat,Focused/Attentive,6
+John A.,Before,Retreat,Open/Aware,6
+John A.,Before,Retreat,Pleasant Emotional State,7
+John A.,Before,Retreat,Unpleasant Emotional State,2
+John A.,After,Retreat,Calm/Relaxed,
+John A.,After,Retreat,Stressed/Anxious,
+John A.,After,Retreat,Focused/Attentive,
+John A.,After,Retreat,Open/Aware,
+John A.,After,Retreat,Pleasant Emotional State,
+John A.,After,Retreat,Unpleasant Emotional State,
+John A.,Before,Perception,Calm/Relaxed,8
+John A.,Before,Perception,Stressed/Anxious,2
+John A.,Before,Perception,Focused/Attentive,7
+John A.,Before,Perception,Open/Aware,7
+John A.,Before,Perception,Pleasant Emotional State,8
+John A.,Before,Perception,Unpleasant Emotional State,1
+John A.,After,Perception,Calm/Relaxed,10
+John A.,After,Perception,Stressed/Anxious,1
+John A.,After,Perception,Focused/Attentive,9
+John A.,After,Perception,Open/Aware,9
+John A.,After,Perception,Pleasant Emotional State,9
+John A.,After,Perception,Unpleasant Emotional State,1
+John A.,Before,Attention,Calm/Relaxed,8
+John A.,Before,Attention,Stressed/Anxious,2
+John A.,Before,Attention,Focused/Attentive,7
+John A.,Before,Attention,Open/Aware,7
+John A.,Before,Attention,Pleasant Emotional State,7
+John A.,Before,Attention,Unpleasant Emotional State,1
+John A.,After,Attention,Calm/Relaxed,10
+John A.,After,Attention,Stressed/Anxious,1
+John A.,After,Attention,Focused/Attentive,9
+John A.,After,Attention,Open/Aware,9
+John A.,After,Attention,Pleasant Emotional State,9
+John A.,After,Attention,Unpleasant Emotional State,1
+John A.,Before,Memory,Calm/Relaxed,
+John A.,Before,Memory,Stressed/Anxious,
+John A.,Before,Memory,Focused/Attentive,
+John A.,Before,Memory,Open/Aware,
+John A.,Before,Memory,Pleasant Emotional State,
+John A.,Before,Memory,Unpleasant Emotional State,
+John A.,After,Memory,Calm/Relaxed,
+John A.,After,Memory,Stressed/Anxious,
+John A.,After,Memory,Focused/Attentive,
+John A.,After,Memory,Open/Aware,
+John A.,After,Memory,Pleasant Emotional State,
+John A.,After,Memory,Unpleasant Emotional State,
+John A.,Before,Emotion,Calm/Relaxed,
+John A.,Before,Emotion,Stressed/Anxious,
+John A.,Before,Emotion,Focused/Attentive,
+John A.,Before,Emotion,Open/Aware,
+John A.,Before,Emotion,Pleasant Emotional State,
+John A.,Before,Emotion,Unpleasant Emotional State,
+John A.,After,Emotion,Calm/Relaxed,
+John A.,After,Emotion,Stressed/Anxious,
+John A.,After,Emotion,Focused/Attentive,
+John A.,After,Emotion,Open/Aware,
+John A.,After,Emotion,Pleasant Emotional State,
+John A.,After,Emotion,Unpleasant Emotional State,
+Randy,Before,Retreat,Calm/Relaxed,5
+Randy,Before,Retreat,Stressed/Anxious,4
+Randy,Before,Retreat,Focused/Attentive,6
+Randy,Before,Retreat,Open/Aware,5
+Randy,Before,Retreat,Pleasant Emotional State,7
+Randy,Before,Retreat,Unpleasant Emotional State,3
+Randy,After,Retreat,Calm/Relaxed,
+Randy,After,Retreat,Stressed/Anxious,
+Randy,After,Retreat,Focused/Attentive,
+Randy,After,Retreat,Open/Aware,
+Randy,After,Retreat,Pleasant Emotional State,
+Randy,After,Retreat,Unpleasant Emotional State,
+Randy,Before,Perception,Calm/Relaxed,7
+Randy,Before,Perception,Stressed/Anxious,2
+Randy,Before,Perception,Focused/Attentive,9
+Randy,Before,Perception,Open/Aware,7
+Randy,Before,Perception,Pleasant Emotional State,8
+Randy,Before,Perception,Unpleasant Emotional State,2
+Randy,After,Perception,Calm/Relaxed,9
+Randy,After,Perception,Stressed/Anxious,2
+Randy,After,Perception,Focused/Attentive,8
+Randy,After,Perception,Open/Aware,8
+Randy,After,Perception,Pleasant Emotional State,8
+Randy,After,Perception,Unpleasant Emotional State,2
+Randy,Before,Attention,Calm/Relaxed,9
+Randy,Before,Attention,Stressed/Anxious,2
+Randy,Before,Attention,Focused/Attentive,9
+Randy,Before,Attention,Open/Aware,9
+Randy,Before,Attention,Pleasant Emotional State,9
+Randy,Before,Attention,Unpleasant Emotional State,2
+Randy,After,Attention,Calm/Relaxed,9
+Randy,After,Attention,Stressed/Anxious,1
+Randy,After,Attention,Focused/Attentive,9
+Randy,After,Attention,Open/Aware,9
+Randy,After,Attention,Pleasant Emotional State,9
+Randy,After,Attention,Unpleasant Emotional State,1
+Randy,Before,Memory,Calm/Relaxed,
+Randy,Before,Memory,Stressed/Anxious,
+Randy,Before,Memory,Focused/Attentive,
+Randy,Before,Memory,Open/Aware,
+Randy,Before,Memory,Pleasant Emotional State,
+Randy,Before,Memory,Unpleasant Emotional State,
+Randy,After,Memory,Calm/Relaxed,
+Randy,After,Memory,Stressed/Anxious,
+Randy,After,Memory,Focused/Attentive,
+Randy,After,Memory,Open/Aware,
+Randy,After,Memory,Pleasant Emotional State,
+Randy,After,Memory,Unpleasant Emotional State,
+Randy,Before,Emotion,Calm/Relaxed,
+Randy,Before,Emotion,Stressed/Anxious,
+Randy,Before,Emotion,Focused/Attentive,
+Randy,Before,Emotion,Open/Aware,
+Randy,Before,Emotion,Pleasant Emotional State,
+Randy,Before,Emotion,Unpleasant Emotional State,
+Randy,After,Emotion,Calm/Relaxed,
+Randy,After,Emotion,Stressed/Anxious,
+Randy,After,Emotion,Focused/Attentive,
+Randy,After,Emotion,Open/Aware,
+Randy,After,Emotion,Pleasant Emotional State,
+Randy,After,Emotion,Unpleasant Emotional State,
+Erin,Before,Retreat,Calm/Relaxed,8
+Erin,Before,Retreat,Stressed/Anxious,5
+Erin,Before,Retreat,Focused/Attentive,7
+Erin,Before,Retreat,Open/Aware,8
+Erin,Before,Retreat,Pleasant Emotional State,9
+Erin,Before,Retreat,Unpleasant Emotional State,3
+Erin,After,Retreat,Calm/Relaxed,
+Erin,After,Retreat,Stressed/Anxious,
+Erin,After,Retreat,Focused/Attentive,
+Erin,After,Retreat,Open/Aware,
+Erin,After,Retreat,Pleasant Emotional State,
+Erin,After,Retreat,Unpleasant Emotional State,
+Erin,Before,Perception,Calm/Relaxed,8
+Erin,Before,Perception,Stressed/Anxious,4
+Erin,Before,Perception,Focused/Attentive,8
+Erin,Before,Perception,Open/Aware,8
+Erin,Before,Perception,Pleasant Emotional State,8
+Erin,Before,Perception,Unpleasant Emotional State,2
+Erin,After,Perception,Calm/Relaxed,10
+Erin,After,Perception,Stressed/Anxious,2
+Erin,After,Perception,Focused/Attentive,9
+Erin,After,Perception,Open/Aware,9
+Erin,After,Perception,Pleasant Emotional State,9
+Erin,After,Perception,Unpleasant Emotional State,4
+Erin,Before,Attention,Calm/Relaxed,7
+Erin,Before,Attention,Stressed/Anxious,5
+Erin,Before,Attention,Focused/Attentive,3
+Erin,Before,Attention,Open/Aware,6
+Erin,Before,Attention,Pleasant Emotional State,7
+Erin,Before,Attention,Unpleasant Emotional State,2
+Erin,After,Attention,Calm/Relaxed,8
+Erin,After,Attention,Stressed/Anxious,6
+Erin,After,Attention,Focused/Attentive,6
+Erin,After,Attention,Open/Aware,9
+Erin,After,Attention,Pleasant Emotional State,6
+Erin,After,Attention,Unpleasant Emotional State,4
+Erin,Before,Memory,Calm/Relaxed,
+Erin,Before,Memory,Stressed/Anxious,
+Erin,Before,Memory,Focused/Attentive,
+Erin,Before,Memory,Open/Aware,
+Erin,Before,Memory,Pleasant Emotional State,
+Erin,Before,Memory,Unpleasant Emotional State,
+Erin,After,Memory,Calm/Relaxed,
+Erin,After,Memory,Stressed/Anxious,
+Erin,After,Memory,Focused/Attentive,
+Erin,After,Memory,Open/Aware,
+Erin,After,Memory,Pleasant Emotional State,
+Erin,After,Memory,Unpleasant Emotional State,
+Erin,Before,Emotion,Calm/Relaxed,
+Erin,Before,Emotion,Stressed/Anxious,
+Erin,Before,Emotion,Focused/Attentive,
+Erin,Before,Emotion,Open/Aware,
+Erin,Before,Emotion,Pleasant Emotional State,
+Erin,Before,Emotion,Unpleasant Emotional State,
+Erin,After,Emotion,Calm/Relaxed,
+Erin,After,Emotion,Stressed/Anxious,
+Erin,After,Emotion,Focused/Attentive,
+Erin,After,Emotion,Open/Aware,
+Erin,After,Emotion,Pleasant Emotional State,
+Erin,After,Emotion,Unpleasant Emotional State,
+Larry,Before,Retreat,Calm/Relaxed,
+Larry,Before,Retreat,Stressed/Anxious,7
+Larry,Before,Retreat,Focused/Attentive,7
+Larry,Before,Retreat,Open/Aware,7
+Larry,Before,Retreat,Pleasant Emotional State,9
+Larry,Before,Retreat,Unpleasant Emotional State,8
+Larry,After,Retreat,Calm/Relaxed,8
+Larry,After,Retreat,Stressed/Anxious,2
+Larry,After,Retreat,Focused/Attentive,
+Larry,After,Retreat,Open/Aware,
+Larry,After,Retreat,Pleasant Emotional State,
+Larry,After,Retreat,Unpleasant Emotional State,
+Larry,Before,Perception,Calm/Relaxed,7
+Larry,Before,Perception,Stressed/Anxious,5
+Larry,Before,Perception,Focused/Attentive,8
+Larry,Before,Perception,Open/Aware,8
+Larry,Before,Perception,Pleasant Emotional State,7
+Larry,Before,Perception,Unpleasant Emotional State,3
+Larry,After,Perception,Calm/Relaxed,9
+Larry,After,Perception,Stressed/Anxious,2
+Larry,After,Perception,Focused/Attentive,9
+Larry,After,Perception,Open/Aware,9
+Larry,After,Perception,Pleasant Emotional State,8
+Larry,After,Perception,Unpleasant Emotional State,2
+Larry,Before,Attention,Calm/Relaxed,9
+Larry,Before,Attention,Stressed/Anxious,2
+Larry,Before,Attention,Focused/Attentive,8
+Larry,Before,Attention,Open/Aware,8
+Larry,Before,Attention,Pleasant Emotional State,8
+Larry,Before,Attention,Unpleasant Emotional State,3
+Larry,After,Attention,Calm/Relaxed,10
+Larry,After,Attention,Stressed/Anxious,1
+Larry,After,Attention,Focused/Attentive,9
+Larry,After,Attention,Open/Aware,9
+Larry,After,Attention,Pleasant Emotional State,9
+Larry,After,Attention,Unpleasant Emotional State,1
+Larry,Before,Memory,Calm/Relaxed,
+Larry,Before,Memory,Stressed/Anxious,
+Larry,Before,Memory,Focused/Attentive,
+Larry,Before,Memory,Open/Aware,
+Larry,Before,Memory,Pleasant Emotional State,
+Larry,Before,Memory,Unpleasant Emotional State,
+Larry,After,Memory,Calm/Relaxed,
+Larry,After,Memory,Stressed/Anxious,
+Larry,After,Memory,Focused/Attentive,
+Larry,After,Memory,Open/Aware,
+Larry,After,Memory,Pleasant Emotional State,
+Larry,After,Memory,Unpleasant Emotional State,
+Larry,Before,Emotion,Calm/Relaxed,
+Larry,Before,Emotion,Stressed/Anxious,
+Larry,Before,Emotion,Focused/Attentive,
+Larry,Before,Emotion,Open/Aware,
+Larry,Before,Emotion,Pleasant Emotional State,
+Larry,Before,Emotion,Unpleasant Emotional State,
+Larry,After,Emotion,Calm/Relaxed,
+Larry,After,Emotion,Stressed/Anxious,
+Larry,After,Emotion,Focused/Attentive,
+Larry,After,Emotion,Open/Aware,
+Larry,After,Emotion,Pleasant Emotional State,
+Larry,After,Emotion,Unpleasant Emotional State,
+Rosanna,Before,Retreat,Calm/Relaxed,8
+Rosanna,Before,Retreat,Stressed/Anxious,3
+Rosanna,Before,Retreat,Focused/Attentive,8
+Rosanna,Before,Retreat,Open/Aware,7
+Rosanna,Before,Retreat,Pleasant Emotional State,8
+Rosanna,Before,Retreat,Unpleasant Emotional State,3
+Rosanna,After,Retreat,Calm/Relaxed,
+Rosanna,After,Retreat,Stressed/Anxious,
+Rosanna,After,Retreat,Focused/Attentive,
+Rosanna,After,Retreat,Open/Aware,
+Rosanna,After,Retreat,Pleasant Emotional State,
+Rosanna,After,Retreat,Unpleasant Emotional State,
+Rosanna,Before,Perception,Calm/Relaxed,8
+Rosanna,Before,Perception,Stressed/Anxious,3
+Rosanna,Before,Perception,Focused/Attentive,8
+Rosanna,Before,Perception,Open/Aware,8
+Rosanna,Before,Perception,Pleasant Emotional State,8
+Rosanna,Before,Perception,Unpleasant Emotional State,2
+Rosanna,After,Perception,Calm/Relaxed,9
+Rosanna,After,Perception,Stressed/Anxious,2
+Rosanna,After,Perception,Focused/Attentive,8
+Rosanna,After,Perception,Open/Aware,9
+Rosanna,After,Perception,Pleasant Emotional State,9
+Rosanna,After,Perception,Unpleasant Emotional State,2
+Rosanna,Before,Attention,Calm/Relaxed,8
+Rosanna,Before,Attention,Stressed/Anxious,3
+Rosanna,Before,Attention,Focused/Attentive,7
+Rosanna,Before,Attention,Open/Aware,8
+Rosanna,Before,Attention,Pleasant Emotional State,8
+Rosanna,Before,Attention,Unpleasant Emotional State,3
+Rosanna,After,Attention,Calm/Relaxed,7
+Rosanna,After,Attention,Stressed/Anxious,3
+Rosanna,After,Attention,Focused/Attentive,8
+Rosanna,After,Attention,Open/Aware,3
+Rosanna,After,Attention,Pleasant Emotional State,7
+Rosanna,After,Attention,Unpleasant Emotional State,3
+Rosanna,Before,Memory,Calm/Relaxed,
+Rosanna,Before,Memory,Stressed/Anxious,
+Rosanna,Before,Memory,Focused/Attentive,
+Rosanna,Before,Memory,Open/Aware,
+Rosanna,Before,Memory,Pleasant Emotional State,
+Rosanna,Before,Memory,Unpleasant Emotional State,
+Rosanna,After,Memory,Calm/Relaxed,
+Rosanna,After,Memory,Stressed/Anxious,
+Rosanna,After,Memory,Focused/Attentive,
+Rosanna,After,Memory,Open/Aware,
+Rosanna,After,Memory,Pleasant Emotional State,
+Rosanna,After,Memory,Unpleasant Emotional State,
+Rosanna,Before,Emotion,Calm/Relaxed,
+Rosanna,Before,Emotion,Stressed/Anxious,
+Rosanna,Before,Emotion,Focused/Attentive,
+Rosanna,Before,Emotion,Open/Aware,
+Rosanna,Before,Emotion,Pleasant Emotional State,
+Rosanna,Before,Emotion,Unpleasant Emotional State,
+Rosanna,After,Emotion,Calm/Relaxed,
+Rosanna,After,Emotion,Stressed/Anxious,
+Rosanna,After,Emotion,Focused/Attentive,
+Rosanna,After,Emotion,Open/Aware,
+Rosanna,After,Emotion,Pleasant Emotional State,
+Rosanna,After,Emotion,Unpleasant Emotional State,
+Alicia,Before,Retreat,Calm/Relaxed,
+Alicia,Before,Retreat,Stressed/Anxious,
+Alicia,Before,Retreat,Focused/Attentive,
+Alicia,Before,Retreat,Open/Aware,
+Alicia,Before,Retreat,Pleasant Emotional State,
+Alicia,Before,Retreat,Unpleasant Emotional State,
+Alicia,After,Retreat,Calm/Relaxed,
+Alicia,After,Retreat,Stressed/Anxious,
+Alicia,After,Retreat,Focused/Attentive,
+Alicia,After,Retreat,Open/Aware,
+Alicia,After,Retreat,Pleasant Emotional State,
+Alicia,After,Retreat,Unpleasant Emotional State,
+Alicia,Before,Perception,Calm/Relaxed,
+Alicia,Before,Perception,Stressed/Anxious,
+Alicia,Before,Perception,Focused/Attentive,
+Alicia,Before,Perception,Open/Aware,
+Alicia,Before,Perception,Pleasant Emotional State,
+Alicia,Before,Perception,Unpleasant Emotional State,
+Alicia,After,Perception,Calm/Relaxed,
+Alicia,After,Perception,Stressed/Anxious,
+Alicia,After,Perception,Focused/Attentive,
+Alicia,After,Perception,Open/Aware,
+Alicia,After,Perception,Pleasant Emotional State,
+Alicia,After,Perception,Unpleasant Emotional State,
+Alicia,Before,Attention,Calm/Relaxed,
+Alicia,Before,Attention,Stressed/Anxious,
+Alicia,Before,Attention,Focused/Attentive,
+Alicia,Before,Attention,Open/Aware,
+Alicia,Before,Attention,Pleasant Emotional State,
+Alicia,Before,Attention,Unpleasant Emotional State,
+Alicia,After,Attention,Calm/Relaxed,
+Alicia,After,Attention,Stressed/Anxious,
+Alicia,After,Attention,Focused/Attentive,
+Alicia,After,Attention,Open/Aware,
+Alicia,After,Attention,Pleasant Emotional State,
+Alicia,After,Attention,Unpleasant Emotional State,
+Alicia,Before,Memory,Calm/Relaxed,
+Alicia,Before,Memory,Stressed/Anxious,
+Alicia,Before,Memory,Focused/Attentive,
+Alicia,Before,Memory,Open/Aware,
+Alicia,Before,Memory,Pleasant Emotional State,
+Alicia,Before,Memory,Unpleasant Emotional State,
+Alicia,After,Memory,Calm/Relaxed,
+Alicia,After,Memory,Stressed/Anxious,
+Alicia,After,Memory,Focused/Attentive,
+Alicia,After,Memory,Open/Aware,
+Alicia,After,Memory,Pleasant Emotional State,
+Alicia,After,Memory,Unpleasant Emotional State,
+Alicia,Before,Emotion,Calm/Relaxed,
+Alicia,Before,Emotion,Stressed/Anxious,
+Alicia,Before,Emotion,Focused/Attentive,
+Alicia,Before,Emotion,Open/Aware,
+Alicia,Before,Emotion,Pleasant Emotional State,
+Alicia,Before,Emotion,Unpleasant Emotional State,
+Alicia,After,Emotion,Calm/Relaxed,
+Alicia,After,Emotion,Stressed/Anxious,
+Alicia,After,Emotion,Focused/Attentive,
+Alicia,After,Emotion,Open/Aware,
+Alicia,After,Emotion,Pleasant Emotional State,
+Alicia,After,Emotion,Unpleasant Emotional State,
+Mimi,Before,Retreat,Calm/Relaxed,
+Mimi,Before,Retreat,Stressed/Anxious,
+Mimi,Before,Retreat,Focused/Attentive,
+Mimi,Before,Retreat,Open/Aware,
+Mimi,Before,Retreat,Pleasant Emotional State,
+Mimi,Before,Retreat,Unpleasant Emotional State,
+Mimi,After,Retreat,Calm/Relaxed,
+Mimi,After,Retreat,Stressed/Anxious,
+Mimi,After,Retreat,Focused/Attentive,
+Mimi,After,Retreat,Open/Aware,
+Mimi,After,Retreat,Pleasant Emotional State,
+Mimi,After,Retreat,Unpleasant Emotional State,
+Mimi,Before,Perception,Calm/Relaxed,
+Mimi,Before,Perception,Stressed/Anxious,
+Mimi,Before,Perception,Focused/Attentive,
+Mimi,Before,Perception,Open/Aware,
+Mimi,Before,Perception,Pleasant Emotional State,
+Mimi,Before,Perception,Unpleasant Emotional State,
+Mimi,After,Perception,Calm/Relaxed,
+Mimi,After,Perception,Stressed/Anxious,
+Mimi,After,Perception,Focused/Attentive,
+Mimi,After,Perception,Open/Aware,
+Mimi,After,Perception,Pleasant Emotional State,
+Mimi,After,Perception,Unpleasant Emotional State,
+Mimi,Before,Attention,Calm/Relaxed,
+Mimi,Before,Attention,Stressed/Anxious,
+Mimi,Before,Attention,Focused/Attentive,
+Mimi,Before,Attention,Open/Aware,
+Mimi,Before,Attention,Pleasant Emotional State,
+Mimi,Before,Attention,Unpleasant Emotional State,
+Mimi,After,Attention,Calm/Relaxed,
+Mimi,After,Attention,Stressed/Anxious,
+Mimi,After,Attention,Focused/Attentive,
+Mimi,After,Attention,Open/Aware,
+Mimi,After,Attention,Pleasant Emotional State,
+Mimi,After,Attention,Unpleasant Emotional State,
+Mimi,Before,Memory,Calm/Relaxed,
+Mimi,Before,Memory,Stressed/Anxious,
+Mimi,Before,Memory,Focused/Attentive,
+Mimi,Before,Memory,Open/Aware,
+Mimi,Before,Memory,Pleasant Emotional State,
+Mimi,Before,Memory,Unpleasant Emotional State,
+Mimi,After,Memory,Calm/Relaxed,
+Mimi,After,Memory,Stressed/Anxious,
+Mimi,After,Memory,Focused/Attentive,
+Mimi,After,Memory,Open/Aware,
+Mimi,After,Memory,Pleasant Emotional State,
+Mimi,After,Memory,Unpleasant Emotional State,
+Mimi,Before,Emotion,Calm/Relaxed,
+Mimi,Before,Emotion,Stressed/Anxious,
+Mimi,Before,Emotion,Focused/Attentive,
+Mimi,Before,Emotion,Open/Aware,
+Mimi,Before,Emotion,Pleasant Emotional State,
+Mimi,Before,Emotion,Unpleasant Emotional State,
+Mimi,After,Emotion,Calm/Relaxed,
+Mimi,After,Emotion,Stressed/Anxious,
+Mimi,After,Emotion,Focused/Attentive,
+Mimi,After,Emotion,Open/Aware,
+Mimi,After,Emotion,Pleasant Emotional State,
+Mimi,After,Emotion,Unpleasant Emotional State,
+Stephanie,Before,Retreat,Calm/Relaxed,
+Stephanie,Before,Retreat,Stressed/Anxious,
+Stephanie,Before,Retreat,Focused/Attentive,
+Stephanie,Before,Retreat,Open/Aware,
+Stephanie,Before,Retreat,Pleasant Emotional State,
+Stephanie,Before,Retreat,Unpleasant Emotional State,
+Stephanie,After,Retreat,Calm/Relaxed,
+Stephanie,After,Retreat,Stressed/Anxious,
+Stephanie,After,Retreat,Focused/Attentive,
+Stephanie,After,Retreat,Open/Aware,
+Stephanie,After,Retreat,Pleasant Emotional State,
+Stephanie,After,Retreat,Unpleasant Emotional State,
+Stephanie,Before,Perception,Calm/Relaxed,
+Stephanie,Before,Perception,Stressed/Anxious,
+Stephanie,Before,Perception,Focused/Attentive,
+Stephanie,Before,Perception,Open/Aware,
+Stephanie,Before,Perception,Pleasant Emotional State,
+Stephanie,Before,Perception,Unpleasant Emotional State,
+Stephanie,After,Perception,Calm/Relaxed,
+Stephanie,After,Perception,Stressed/Anxious,
+Stephanie,After,Perception,Focused/Attentive,
+Stephanie,After,Perception,Open/Aware,
+Stephanie,After,Perception,Pleasant Emotional State,
+Stephanie,After,Perception,Unpleasant Emotional State,
+Stephanie,Before,Attention,Calm/Relaxed,
+Stephanie,Before,Attention,Stressed/Anxious,
+Stephanie,Before,Attention,Focused/Attentive,
+Stephanie,Before,Attention,Open/Aware,
+Stephanie,Before,Attention,Pleasant Emotional State,
+Stephanie,Before,Attention,Unpleasant Emotional State,
+Stephanie,After,Attention,Calm/Relaxed,
+Stephanie,After,Attention,Stressed/Anxious,
+Stephanie,After,Attention,Focused/Attentive,
+Stephanie,After,Attention,Open/Aware,
+Stephanie,After,Attention,Pleasant Emotional State,
+Stephanie,After,Attention,Unpleasant Emotional State,
+Stephanie,Before,Memory,Calm/Relaxed,
+Stephanie,Before,Memory,Stressed/Anxious,
+Stephanie,Before,Memory,Focused/Attentive,
+Stephanie,Before,Memory,Open/Aware,
+Stephanie,Before,Memory,Pleasant Emotional State,
+Stephanie,Before,Memory,Unpleasant Emotional State,
+Stephanie,After,Memory,Calm/Relaxed,
+Stephanie,After,Memory,Stressed/Anxious,
+Stephanie,After,Memory,Focused/Attentive,
+Stephanie,After,Memory,Open/Aware,
+Stephanie,After,Memory,Pleasant Emotional State,
+Stephanie,After,Memory,Unpleasant Emotional State,
+Stephanie,Before,Emotion,Calm/Relaxed,
+Stephanie,Before,Emotion,Stressed/Anxious,
+Stephanie,Before,Emotion,Focused/Attentive,
+Stephanie,Before,Emotion,Open/Aware,
+Stephanie,Before,Emotion,Pleasant Emotional State,
+Stephanie,Before,Emotion,Unpleasant Emotional State,
+Stephanie,After,Emotion,Calm/Relaxed,
+Stephanie,After,Emotion,Stressed/Anxious,
+Stephanie,After,Emotion,Focused/Attentive,
+Stephanie,After,Emotion,Open/Aware,
+Stephanie,After,Emotion,Pleasant Emotional State,
+Stephanie,After,Emotion,Unpleasant Emotional State,
+Bill,Before,Retreat,Calm/Relaxed,
+Bill,Before,Retreat,Stressed/Anxious,
+Bill,Before,Retreat,Focused/Attentive,
+Bill,Before,Retreat,Open/Aware,
+Bill,Before,Retreat,Pleasant Emotional State,
+Bill,Before,Retreat,Unpleasant Emotional State,
+Bill,After,Retreat,Calm/Relaxed,
+Bill,After,Retreat,Stressed/Anxious,
+Bill,After,Retreat,Focused/Attentive,
+Bill,After,Retreat,Open/Aware,
+Bill,After,Retreat,Pleasant Emotional State,
+Bill,After,Retreat,Unpleasant Emotional State,
+Bill,Before,Perception,Calm/Relaxed,
+Bill,Before,Perception,Stressed/Anxious,
+Bill,Before,Perception,Focused/Attentive,
+Bill,Before,Perception,Open/Aware,
+Bill,Before,Perception,Pleasant Emotional State,
+Bill,Before,Perception,Unpleasant Emotional State,
+Bill,After,Perception,Calm/Relaxed,
+Bill,After,Perception,Stressed/Anxious,
+Bill,After,Perception,Focused/Attentive,
+Bill,After,Perception,Open/Aware,
+Bill,After,Perception,Pleasant Emotional State,
+Bill,After,Perception,Unpleasant Emotional State,
+Bill,Before,Attention,Calm/Relaxed,
+Bill,Before,Attention,Stressed/Anxious,
+Bill,Before,Attention,Focused/Attentive,
+Bill,Before,Attention,Open/Aware,
+Bill,Before,Attention,Pleasant Emotional State,
+Bill,Before,Attention,Unpleasant Emotional State,
+Bill,After,Attention,Calm/Relaxed,
+Bill,After,Attention,Stressed/Anxious,
+Bill,After,Attention,Focused/Attentive,
+Bill,After,Attention,Open/Aware,
+Bill,After,Attention,Pleasant Emotional State,
+Bill,After,Attention,Unpleasant Emotional State,
+Bill,Before,Memory,Calm/Relaxed,
+Bill,Before,Memory,Stressed/Anxious,
+Bill,Before,Memory,Focused/Attentive,
+Bill,Before,Memory,Open/Aware,
+Bill,Before,Memory,Pleasant Emotional State,
+Bill,Before,Memory,Unpleasant Emotional State,
+Bill,After,Memory,Calm/Relaxed,
+Bill,After,Memory,Stressed/Anxious,
+Bill,After,Memory,Focused/Attentive,
+Bill,After,Memory,Open/Aware,
+Bill,After,Memory,Pleasant Emotional State,
+Bill,After,Memory,Unpleasant Emotional State,
+Bill,Before,Emotion,Calm/Relaxed,
+Bill,Before,Emotion,Stressed/Anxious,
+Bill,Before,Emotion,Focused/Attentive,
+Bill,Before,Emotion,Open/Aware,
+Bill,Before,Emotion,Pleasant Emotional State,
+Bill,Before,Emotion,Unpleasant Emotional State,
+Bill,After,Emotion,Calm/Relaxed,
+Bill,After,Emotion,Stressed/Anxious,
+Bill,After,Emotion,Focused/Attentive,
+Bill,After,Emotion,Open/Aware,
+Bill,After,Emotion,Pleasant Emotional State,
+Bill,After,Emotion,Unpleasant Emotional State,
+Melissa,Before,Retreat,Calm/Relaxed,
+Melissa,Before,Retreat,Stressed/Anxious,
+Melissa,Before,Retreat,Focused/Attentive,
+Melissa,Before,Retreat,Open/Aware,
+Melissa,Before,Retreat,Pleasant Emotional State,
+Melissa,Before,Retreat,Unpleasant Emotional State,
+Melissa,After,Retreat,Calm/Relaxed,
+Melissa,After,Retreat,Stressed/Anxious,
+Melissa,After,Retreat,Focused/Attentive,
+Melissa,After,Retreat,Open/Aware,
+Melissa,After,Retreat,Pleasant Emotional State,
+Melissa,After,Retreat,Unpleasant Emotional State,
+Melissa,Before,Perception,Calm/Relaxed,
+Melissa,Before,Perception,Stressed/Anxious,
+Melissa,Before,Perception,Focused/Attentive,
+Melissa,Before,Perception,Open/Aware,
+Melissa,Before,Perception,Pleasant Emotional State,
+Melissa,Before,Perception,Unpleasant Emotional State,
+Melissa,After,Perception,Calm/Relaxed,
+Melissa,After,Perception,Stressed/Anxious,
+Melissa,After,Perception,Focused/Attentive,
+Melissa,After,Perception,Open/Aware,
+Melissa,After,Perception,Pleasant Emotional State,
+Melissa,After,Perception,Unpleasant Emotional State,
+Melissa,Before,Attention,Calm/Relaxed,
+Melissa,Before,Attention,Stressed/Anxious,
+Melissa,Before,Attention,Focused/Attentive,
+Melissa,Before,Attention,Open/Aware,
+Melissa,Before,Attention,Pleasant Emotional State,
+Melissa,Before,Attention,Unpleasant Emotional State,
+Melissa,After,Attention,Calm/Relaxed,
+Melissa,After,Attention,Stressed/Anxious,
+Melissa,After,Attention,Focused/Attentive,
+Melissa,After,Attention,Open/Aware,
+Melissa,After,Attention,Pleasant Emotional State,
+Melissa,After,Attention,Unpleasant Emotional State,
+Melissa,Before,Memory,Calm/Relaxed,
+Melissa,Before,Memory,Stressed/Anxious,
+Melissa,Before,Memory,Focused/Attentive,
+Melissa,Before,Memory,Open/Aware,
+Melissa,Before,Memory,Pleasant Emotional State,
+Melissa,Before,Memory,Unpleasant Emotional State,
+Melissa,After,Memory,Calm/Relaxed,
+Melissa,After,Memory,Stressed/Anxious,
+Melissa,After,Memory,Focused/Attentive,
+Melissa,After,Memory,Open/Aware,
+Melissa,After,Memory,Pleasant Emotional State,
+Melissa,After,Memory,Unpleasant Emotional State,
+Melissa,Before,Emotion,Calm/Relaxed,
+Melissa,Before,Emotion,Stressed/Anxious,
+Melissa,Before,Emotion,Focused/Attentive,
+Melissa,Before,Emotion,Open/Aware,
+Melissa,Before,Emotion,Pleasant Emotional State,
+Melissa,Before,Emotion,Unpleasant Emotional State,
+Melissa,After,Emotion,Calm/Relaxed,
+Melissa,After,Emotion,Stressed/Anxious,
+Melissa,After,Emotion,Focused/Attentive,
+Melissa,After,Emotion,Open/Aware,
+Melissa,After,Emotion,Pleasant Emotional State,
+Melissa,After,Emotion,Unpleasant Emotional State,
+David,Before,Retreat,Calm/Relaxed,
+David,Before,Retreat,Stressed/Anxious,
+David,Before,Retreat,Focused/Attentive,
+David,Before,Retreat,Open/Aware,
+David,Before,Retreat,Pleasant Emotional State,
+David,Before,Retreat,Unpleasant Emotional State,
+David,After,Retreat,Calm/Relaxed,
+David,After,Retreat,Stressed/Anxious,
+David,After,Retreat,Focused/Attentive,
+David,After,Retreat,Open/Aware,
+David,After,Retreat,Pleasant Emotional State,
+David,After,Retreat,Unpleasant Emotional State,
+David,Before,Perception,Calm/Relaxed,
+David,Before,Perception,Stressed/Anxious,
+David,Before,Perception,Focused/Attentive,
+David,Before,Perception,Open/Aware,
+David,Before,Perception,Pleasant Emotional State,
+David,Before,Perception,Unpleasant Emotional State,
+David,After,Perception,Calm/Relaxed,
+David,After,Perception,Stressed/Anxious,
+David,After,Perception,Focused/Attentive,
+David,After,Perception,Open/Aware,
+David,After,Perception,Pleasant Emotional State,
+David,After,Perception,Unpleasant Emotional State,
+David,Before,Attention,Calm/Relaxed,
+David,Before,Attention,Stressed/Anxious,
+David,Before,Attention,Focused/Attentive,
+David,Before,Attention,Open/Aware,
+David,Before,Attention,Pleasant Emotional State,
+David,Before,Attention,Unpleasant Emotional State,
+David,After,Attention,Calm/Relaxed,
+David,After,Attention,Stressed/Anxious,
+David,After,Attention,Focused/Attentive,
+David,After,Attention,Open/Aware,
+David,After,Attention,Pleasant Emotional State,
+David,After,Attention,Unpleasant Emotional State,
+David,Before,Memory,Calm/Relaxed,
+David,Before,Memory,Stressed/Anxious,
+David,Before,Memory,Focused/Attentive,
+David,Before,Memory,Open/Aware,
+David,Before,Memory,Pleasant Emotional State,
+David,Before,Memory,Unpleasant Emotional State,
+David,After,Memory,Calm/Relaxed,
+David,After,Memory,Stressed/Anxious,
+David,After,Memory,Focused/Attentive,
+David,After,Memory,Open/Aware,
+David,After,Memory,Pleasant Emotional State,
+David,After,Memory,Unpleasant Emotional State,
+David,Before,Emotion,Calm/Relaxed,
+David,Before,Emotion,Stressed/Anxious,
+David,Before,Emotion,Focused/Attentive,
+David,Before,Emotion,Open/Aware,
+David,Before,Emotion,Pleasant Emotional State,
+David,Before,Emotion,Unpleasant Emotional State,
+David,After,Emotion,Calm/Relaxed,
+David,After,Emotion,Stressed/Anxious,
+David,After,Emotion,Focused/Attentive,
+David,After,Emotion,Open/Aware,
+David,After,Emotion,Pleasant Emotional State,
+David,After,Emotion,Unpleasant Emotional State,
+Mariana,Before,Retreat,Calm/Relaxed,
+Mariana,Before,Retreat,Stressed/Anxious,
+Mariana,Before,Retreat,Focused/Attentive,
+Mariana,Before,Retreat,Open/Aware,
+Mariana,Before,Retreat,Pleasant Emotional State,
+Mariana,Before,Retreat,Unpleasant Emotional State,
+Mariana,After,Retreat,Calm/Relaxed,
+Mariana,After,Retreat,Stressed/Anxious,
+Mariana,After,Retreat,Focused/Attentive,
+Mariana,After,Retreat,Open/Aware,
+Mariana,After,Retreat,Pleasant Emotional State,
+Mariana,After,Retreat,Unpleasant Emotional State,
+Mariana,Before,Perception,Calm/Relaxed,
+Mariana,Before,Perception,Stressed/Anxious,
+Mariana,Before,Perception,Focused/Attentive,
+Mariana,Before,Perception,Open/Aware,
+Mariana,Before,Perception,Pleasant Emotional State,
+Mariana,Before,Perception,Unpleasant Emotional State,
+Mariana,After,Perception,Calm/Relaxed,
+Mariana,After,Perception,Stressed/Anxious,
+Mariana,After,Perception,Focused/Attentive,
+Mariana,After,Perception,Open/Aware,
+Mariana,After,Perception,Pleasant Emotional State,
+Mariana,After,Perception,Unpleasant Emotional State,
+Mariana,Before,Attention,Calm/Relaxed,
+Mariana,Before,Attention,Stressed/Anxious,
+Mariana,Before,Attention,Focused/Attentive,
+Mariana,Before,Attention,Open/Aware,
+Mariana,Before,Attention,Pleasant Emotional State,
+Mariana,Before,Attention,Unpleasant Emotional State,
+Mariana,After,Attention,Calm/Relaxed,
+Mariana,After,Attention,Stressed/Anxious,
+Mariana,After,Attention,Focused/Attentive,
+Mariana,After,Attention,Open/Aware,
+Mariana,After,Attention,Pleasant Emotional State,
+Mariana,After,Attention,Unpleasant Emotional State,
+Mariana,Before,Memory,Calm/Relaxed,
+Mariana,Before,Memory,Stressed/Anxious,
+Mariana,Before,Memory,Focused/Attentive,
+Mariana,Before,Memory,Open/Aware,
+Mariana,Before,Memory,Pleasant Emotional State,
+Mariana,Before,Memory,Unpleasant Emotional State,
+Mariana,After,Memory,Calm/Relaxed,
+Mariana,After,Memory,Stressed/Anxious,
+Mariana,After,Memory,Focused/Attentive,
+Mariana,After,Memory,Open/Aware,
+Mariana,After,Memory,Pleasant Emotional State,
+Mariana,After,Memory,Unpleasant Emotional State,
+Mariana,Before,Emotion,Calm/Relaxed,
+Mariana,Before,Emotion,Stressed/Anxious,
+Mariana,Before,Emotion,Focused/Attentive,
+Mariana,Before,Emotion,Open/Aware,
+Mariana,Before,Emotion,Pleasant Emotional State,
+Mariana,Before,Emotion,Unpleasant Emotional State,
+Mariana,After,Emotion,Calm/Relaxed,
+Mariana,After,Emotion,Stressed/Anxious,
+Mariana,After,Emotion,Focused/Attentive,
+Mariana,After,Emotion,Open/Aware,
+Mariana,After,Emotion,Pleasant Emotional State,
+Mariana,After,Emotion,Unpleasant Emotional State,
+Bill F,Before,Retreat,Calm/Relaxed,
+Bill F,Before,Retreat,Stressed/Anxious,
+Bill F,Before,Retreat,Focused/Attentive,
+Bill F,Before,Retreat,Open/Aware,
+Bill F,Before,Retreat,Pleasant Emotional State,
+Bill F,Before,Retreat,Unpleasant Emotional State,
+Bill F,After,Retreat,Calm/Relaxed,
+Bill F,After,Retreat,Stressed/Anxious,
+Bill F,After,Retreat,Focused/Attentive,
+Bill F,After,Retreat,Open/Aware,
+Bill F,After,Retreat,Pleasant Emotional State,
+Bill F,After,Retreat,Unpleasant Emotional State,
+Bill F,Before,Perception,Calm/Relaxed,
+Bill F,Before,Perception,Stressed/Anxious,
+Bill F,Before,Perception,Focused/Attentive,
+Bill F,Before,Perception,Open/Aware,
+Bill F,Before,Perception,Pleasant Emotional State,
+Bill F,Before,Perception,Unpleasant Emotional State,
+Bill F,After,Perception,Calm/Relaxed,
+Bill F,After,Perception,Stressed/Anxious,
+Bill F,After,Perception,Focused/Attentive,
+Bill F,After,Perception,Open/Aware,
+Bill F,After,Perception,Pleasant Emotional State,
+Bill F,After,Perception,Unpleasant Emotional State,
+Bill F,Before,Attention,Calm/Relaxed,
+Bill F,Before,Attention,Stressed/Anxious,
+Bill F,Before,Attention,Focused/Attentive,
+Bill F,Before,Attention,Open/Aware,
+Bill F,Before,Attention,Pleasant Emotional State,
+Bill F,Before,Attention,Unpleasant Emotional State,
+Bill F,After,Attention,Calm/Relaxed,
+Bill F,After,Attention,Stressed/Anxious,
+Bill F,After,Attention,Focused/Attentive,
+Bill F,After,Attention,Open/Aware,
+Bill F,After,Attention,Pleasant Emotional State,
+Bill F,After,Attention,Unpleasant Emotional State,
+Bill F,Before,Memory,Calm/Relaxed,
+Bill F,Before,Memory,Stressed/Anxious,
+Bill F,Before,Memory,Focused/Attentive,
+Bill F,Before,Memory,Open/Aware,
+Bill F,Before,Memory,Pleasant Emotional State,
+Bill F,Before,Memory,Unpleasant Emotional State,
+Bill F,After,Memory,Calm/Relaxed,
+Bill F,After,Memory,Stressed/Anxious,
+Bill F,After,Memory,Focused/Attentive,
+Bill F,After,Memory,Open/Aware,
+Bill F,After,Memory,Pleasant Emotional State,
+Bill F,After,Memory,Unpleasant Emotional State,
+Bill F,Before,Emotion,Calm/Relaxed,
+Bill F,Before,Emotion,Stressed/Anxious,
+Bill F,Before,Emotion,Focused/Attentive,
+Bill F,Before,Emotion,Open/Aware,
+Bill F,Before,Emotion,Pleasant Emotional State,
+Bill F,Before,Emotion,Unpleasant Emotional State,
+Bill F,After,Emotion,Calm/Relaxed,
+Bill F,After,Emotion,Stressed/Anxious,
+Bill F,After,Emotion,Focused/Attentive,
+Bill F,After,Emotion,Open/Aware,
+Bill F,After,Emotion,Pleasant Emotional State,
+Bill F,After,Emotion,Unpleasant Emotional State,
+Monique,Before,Retreat,Calm/Relaxed,
+Monique,Before,Retreat,Stressed/Anxious,
+Monique,Before,Retreat,Focused/Attentive,
+Monique,Before,Retreat,Open/Aware,
+Monique,Before,Retreat,Pleasant Emotional State,
+Monique,Before,Retreat,Unpleasant Emotional State,
+Monique,After,Retreat,Calm/Relaxed,
+Monique,After,Retreat,Stressed/Anxious,
+Monique,After,Retreat,Focused/Attentive,
+Monique,After,Retreat,Open/Aware,
+Monique,After,Retreat,Pleasant Emotional State,
+Monique,After,Retreat,Unpleasant Emotional State,
+Monique,Before,Perception,Calm/Relaxed,
+Monique,Before,Perception,Stressed/Anxious,
+Monique,Before,Perception,Focused/Attentive,
+Monique,Before,Perception,Open/Aware,
+Monique,Before,Perception,Pleasant Emotional State,
+Monique,Before,Perception,Unpleasant Emotional State,
+Monique,After,Perception,Calm/Relaxed,
+Monique,After,Perception,Stressed/Anxious,
+Monique,After,Perception,Focused/Attentive,
+Monique,After,Perception,Open/Aware,
+Monique,After,Perception,Pleasant Emotional State,
+Monique,After,Perception,Unpleasant Emotional State,
+Monique,Before,Attention,Calm/Relaxed,
+Monique,Before,Attention,Stressed/Anxious,
+Monique,Before,Attention,Focused/Attentive,
+Monique,Before,Attention,Open/Aware,
+Monique,Before,Attention,Pleasant Emotional State,
+Monique,Before,Attention,Unpleasant Emotional State,
+Monique,After,Attention,Calm/Relaxed,
+Monique,After,Attention,Stressed/Anxious,
+Monique,After,Attention,Focused/Attentive,
+Monique,After,Attention,Open/Aware,
+Monique,After,Attention,Pleasant Emotional State,
+Monique,After,Attention,Unpleasant Emotional State,
+Monique,Before,Memory,Calm/Relaxed,
+Monique,Before,Memory,Stressed/Anxious,
+Monique,Before,Memory,Focused/Attentive,
+Monique,Before,Memory,Open/Aware,
+Monique,Before,Memory,Pleasant Emotional State,
+Monique,Before,Memory,Unpleasant Emotional State,
+Monique,After,Memory,Calm/Relaxed,
+Monique,After,Memory,Stressed/Anxious,
+Monique,After,Memory,Focused/Attentive,
+Monique,After,Memory,Open/Aware,
+Monique,After,Memory,Pleasant Emotional State,
+Monique,After,Memory,Unpleasant Emotional State,
+Monique,Before,Emotion,Calm/Relaxed,
+Monique,Before,Emotion,Stressed/Anxious,
+Monique,Before,Emotion,Focused/Attentive,
+Monique,Before,Emotion,Open/Aware,
+Monique,Before,Emotion,Pleasant Emotional State,
+Monique,Before,Emotion,Unpleasant Emotional State,
+Monique,After,Emotion,Calm/Relaxed,
+Monique,After,Emotion,Stressed/Anxious,
+Monique,After,Emotion,Focused/Attentive,
+Monique,After,Emotion,Open/Aware,
+Monique,After,Emotion,Pleasant Emotional State,
+Monique,After,Emotion,Unpleasant Emotional State,
+Natalya,Before,Retreat,Calm/Relaxed,
+Natalya,Before,Retreat,Stressed/Anxious,
+Natalya,Before,Retreat,Focused/Attentive,
+Natalya,Before,Retreat,Open/Aware,
+Natalya,Before,Retreat,Pleasant Emotional State,
+Natalya,Before,Retreat,Unpleasant Emotional State,
+Natalya,After,Retreat,Calm/Relaxed,
+Natalya,After,Retreat,Stressed/Anxious,
+Natalya,After,Retreat,Focused/Attentive,
+Natalya,After,Retreat,Open/Aware,
+Natalya,After,Retreat,Pleasant Emotional State,
+Natalya,After,Retreat,Unpleasant Emotional State,
+Natalya,Before,Perception,Calm/Relaxed,
+Natalya,Before,Perception,Stressed/Anxious,
+Natalya,Before,Perception,Focused/Attentive,
+Natalya,Before,Perception,Open/Aware,
+Natalya,Before,Perception,Pleasant Emotional State,
+Natalya,Before,Perception,Unpleasant Emotional State,
+Natalya,After,Perception,Calm/Relaxed,
+Natalya,After,Perception,Stressed/Anxious,
+Natalya,After,Perception,Focused/Attentive,
+Natalya,After,Perception,Open/Aware,
+Natalya,After,Perception,Pleasant Emotional State,
+Natalya,After,Perception,Unpleasant Emotional State,
+Natalya,Before,Attention,Calm/Relaxed,
+Natalya,Before,Attention,Stressed/Anxious,
+Natalya,Before,Attention,Focused/Attentive,
+Natalya,Before,Attention,Open/Aware,
+Natalya,Before,Attention,Pleasant Emotional State,
+Natalya,Before,Attention,Unpleasant Emotional State,
+Natalya,After,Attention,Calm/Relaxed,
+Natalya,After,Attention,Stressed/Anxious,
+Natalya,After,Attention,Focused/Attentive,
+Natalya,After,Attention,Open/Aware,
+Natalya,After,Attention,Pleasant Emotional State,
+Natalya,After,Attention,Unpleasant Emotional State,
+Natalya,Before,Memory,Calm/Relaxed,
+Natalya,Before,Memory,Stressed/Anxious,
+Natalya,Before,Memory,Focused/Attentive,
+Natalya,Before,Memory,Open/Aware,
+Natalya,Before,Memory,Pleasant Emotional State,
+Natalya,Before,Memory,Unpleasant Emotional State,
+Natalya,After,Memory,Calm/Relaxed,
+Natalya,After,Memory,Stressed/Anxious,
+Natalya,After,Memory,Focused/Attentive,
+Natalya,After,Memory,Open/Aware,
+Natalya,After,Memory,Pleasant Emotional State,
+Natalya,After,Memory,Unpleasant Emotional State,
+Natalya,Before,Emotion,Calm/Relaxed,
+Natalya,Before,Emotion,Stressed/Anxious,
+Natalya,Before,Emotion,Focused/Attentive,
+Natalya,Before,Emotion,Open/Aware,
+Natalya,Before,Emotion,Pleasant Emotional State,
+Natalya,Before,Emotion,Unpleasant Emotional State,
+Natalya,After,Emotion,Calm/Relaxed,
+Natalya,After,Emotion,Stressed/Anxious,
+Natalya,After,Emotion,Focused/Attentive,
+Natalya,After,Emotion,Open/Aware,
+Natalya,After,Emotion,Pleasant Emotional State,
+Natalya,After,Emotion,Unpleasant Emotional State,
+Patty,Before,Retreat,Calm/Relaxed,
+Patty,Before,Retreat,Stressed/Anxious,
+Patty,Before,Retreat,Focused/Attentive,
+Patty,Before,Retreat,Open/Aware,
+Patty,Before,Retreat,Pleasant Emotional State,
+Patty,Before,Retreat,Unpleasant Emotional State,
+Patty,After,Retreat,Calm/Relaxed,
+Patty,After,Retreat,Stressed/Anxious,
+Patty,After,Retreat,Focused/Attentive,
+Patty,After,Retreat,Open/Aware,
+Patty,After,Retreat,Pleasant Emotional State,
+Patty,After,Retreat,Unpleasant Emotional State,
+Patty,Before,Perception,Calm/Relaxed,
+Patty,Before,Perception,Stressed/Anxious,
+Patty,Before,Perception,Focused/Attentive,
+Patty,Before,Perception,Open/Aware,
+Patty,Before,Perception,Pleasant Emotional State,
+Patty,Before,Perception,Unpleasant Emotional State,
+Patty,After,Perception,Calm/Relaxed,
+Patty,After,Perception,Stressed/Anxious,
+Patty,After,Perception,Focused/Attentive,
+Patty,After,Perception,Open/Aware,
+Patty,After,Perception,Pleasant Emotional State,
+Patty,After,Perception,Unpleasant Emotional State,
+Patty,Before,Attention,Calm/Relaxed,
+Patty,Before,Attention,Stressed/Anxious,
+Patty,Before,Attention,Focused/Attentive,
+Patty,Before,Attention,Open/Aware,
+Patty,Before,Attention,Pleasant Emotional State,
+Patty,Before,Attention,Unpleasant Emotional State,
+Patty,After,Attention,Calm/Relaxed,
+Patty,After,Attention,Stressed/Anxious,
+Patty,After,Attention,Focused/Attentive,
+Patty,After,Attention,Open/Aware,
+Patty,After,Attention,Pleasant Emotional State,
+Patty,After,Attention,Unpleasant Emotional State,
+Patty,Before,Memory,Calm/Relaxed,
+Patty,Before,Memory,Stressed/Anxious,
+Patty,Before,Memory,Focused/Attentive,
+Patty,Before,Memory,Open/Aware,
+Patty,Before,Memory,Pleasant Emotional State,
+Patty,Before,Memory,Unpleasant Emotional State,
+Patty,After,Memory,Calm/Relaxed,
+Patty,After,Memory,Stressed/Anxious,
+Patty,After,Memory,Focused/Attentive,
+Patty,After,Memory,Open/Aware,
+Patty,After,Memory,Pleasant Emotional State,
+Patty,After,Memory,Unpleasant Emotional State,
+Patty,Before,Emotion,Calm/Relaxed,
+Patty,Before,Emotion,Stressed/Anxious,
+Patty,Before,Emotion,Focused/Attentive,
+Patty,Before,Emotion,Open/Aware,
+Patty,Before,Emotion,Pleasant Emotional State,
+Patty,Before,Emotion,Unpleasant Emotional State,
+Patty,After,Emotion,Calm/Relaxed,
+Patty,After,Emotion,Stressed/Anxious,
+Patty,After,Emotion,Focused/Attentive,
+Patty,After,Emotion,Open/Aware,
+Patty,After,Emotion,Pleasant Emotional State,
+Patty,After,Emotion,Unpleasant Emotional State,
+Mark,Before,Retreat,Calm/Relaxed,
+Mark,Before,Retreat,Stressed/Anxious,
+Mark,Before,Retreat,Focused/Attentive,
+Mark,Before,Retreat,Open/Aware,
+Mark,Before,Retreat,Pleasant Emotional State,
+Mark,Before,Retreat,Unpleasant Emotional State,
+Mark,After,Retreat,Calm/Relaxed,
+Mark,After,Retreat,Stressed/Anxious,
+Mark,After,Retreat,Focused/Attentive,
+Mark,After,Retreat,Open/Aware,
+Mark,After,Retreat,Pleasant Emotional State,
+Mark,After,Retreat,Unpleasant Emotional State,
+Mark,Before,Perception,Calm/Relaxed,
+Mark,Before,Perception,Stressed/Anxious,
+Mark,Before,Perception,Focused/Attentive,
+Mark,Before,Perception,Open/Aware,
+Mark,Before,Perception,Pleasant Emotional State,
+Mark,Before,Perception,Unpleasant Emotional State,
+Mark,After,Perception,Calm/Relaxed,
+Mark,After,Perception,Stressed/Anxious,
+Mark,After,Perception,Focused/Attentive,
+Mark,After,Perception,Open/Aware,
+Mark,After,Perception,Pleasant Emotional State,
+Mark,After,Perception,Unpleasant Emotional State,
+Mark,Before,Attention,Calm/Relaxed,
+Mark,Before,Attention,Stressed/Anxious,
+Mark,Before,Attention,Focused/Attentive,
+Mark,Before,Attention,Open/Aware,
+Mark,Before,Attention,Pleasant Emotional State,
+Mark,Before,Attention,Unpleasant Emotional State,
+Mark,After,Attention,Calm/Relaxed,
+Mark,After,Attention,Stressed/Anxious,
+Mark,After,Attention,Focused/Attentive,
+Mark,After,Attention,Open/Aware,
+Mark,After,Attention,Pleasant Emotional State,
+Mark,After,Attention,Unpleasant Emotional State,
+Mark,Before,Memory,Calm/Relaxed,
+Mark,Before,Memory,Stressed/Anxious,
+Mark,Before,Memory,Focused/Attentive,
+Mark,Before,Memory,Open/Aware,
+Mark,Before,Memory,Pleasant Emotional State,
+Mark,Before,Memory,Unpleasant Emotional State,
+Mark,After,Memory,Calm/Relaxed,
+Mark,After,Memory,Stressed/Anxious,
+Mark,After,Memory,Focused/Attentive,
+Mark,After,Memory,Open/Aware,
+Mark,After,Memory,Pleasant Emotional State,
+Mark,After,Memory,Unpleasant Emotional State,
+Mark,Before,Emotion,Calm/Relaxed,
+Mark,Before,Emotion,Stressed/Anxious,
+Mark,Before,Emotion,Focused/Attentive,
+Mark,Before,Emotion,Open/Aware,
+Mark,Before,Emotion,Pleasant Emotional State,
+Mark,Before,Emotion,Unpleasant Emotional State,
+Mark,After,Emotion,Calm/Relaxed,
+Mark,After,Emotion,Stressed/Anxious,
+Mark,After,Emotion,Focused/Attentive,
+Mark,After,Emotion,Open/Aware,
+Mark,After,Emotion,Pleasant Emotional State,
+Mark,After,Emotion,Unpleasant Emotional State,
